@@ -1,9 +1,6 @@
-#header h1 {
+#header {
   text-align: center;
-}
-
-#header p {
-  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 main {
@@ -47,7 +44,7 @@ main {
 #laptop_picture {
   width: 40%;
   float: left;
-  margin: 20px 0px 0px 0px;
+  margin-top: 20px;
 }
 
 .laptop_section img {
